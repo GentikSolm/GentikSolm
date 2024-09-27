@@ -18,7 +18,7 @@
 
 # Hey there, [I'm Josh](https://imjosh.dev) <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" alt='wave'/>
 
-You can find me working on [Sybil](https://sybil.com). 
+You can find me working on [Targon](https://github.com/manifold-inc/targon) at [Manifold](https://manifold.inc). 
 
 Some of my past work includes everything under [Biblish](https://biblish.com), like [Papertrail](https://papertrail.biblish.com).
 
